@@ -1,0 +1,27 @@
+title: deadbead
+description: broke my bed, it's now dead
+baseurl: "" 
+url: "https://db.philippeloctaux.com" 
+github_username:  ploctaux
+github_repo: deadbead
+social_link: twitter
+social_username: philippeloctaux
+
+# Build settings
+markdown: kramdown
+theme: jekyll-swiss
+theme_color: gray
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

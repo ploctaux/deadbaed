@@ -1,8 +1,7 @@
 ---
+layout: post
 title: Wolf Lambert music review
-date: 2016/08/02 00:00:00
-comments: false
-
+date: 2016-08-02 00:00:00
 ---
 
 My friend [Wolf Lambert](http://wolflambert.space) makes music, which is good to be honest, I really enjoy it.

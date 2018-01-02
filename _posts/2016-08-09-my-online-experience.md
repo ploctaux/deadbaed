@@ -1,8 +1,7 @@
 ---
+layout: post
 title: my online experience
-date: 2016/08/09 00:00:00
-comments: false
-
+date: 2016-08-09 00:00:00
 ---
 
 > protip: don't listen to teachers in school, learn from the internet
