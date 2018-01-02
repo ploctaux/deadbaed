@@ -2,4 +2,4 @@
 
 my blog
 
-made with hexo
+made with jekyll
