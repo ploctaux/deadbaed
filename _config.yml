@@ -13,7 +13,7 @@ theme: jekyll-swiss
 theme_color: gray
 encoding: utf-8
 timezone: Europe/Paris
-permalink: /:year/:month/:title
+permalink: /:year/:month/:title/
 exclude: [readme.md, Gemfile, Gemfile.lock, publish.sh]
 plugins:
   - jekyll-feed
