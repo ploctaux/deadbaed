@@ -9,8 +9,7 @@ social_username: philippeloctaux
 
 # Build settings
 markdown: kramdown
-theme: jekyll-swiss
-theme_color: gray
+theme: minima
 encoding: utf-8
 timezone: Europe/Paris
 permalink: /:year/:month/:title/
