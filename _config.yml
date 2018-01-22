@@ -2,10 +2,8 @@ title: deadbaed
 description: broke my bed, it's now dead
 baseurl: "" 
 url: "http://db.philippeloctaux.com" 
-github_username:  x4m3
-github_repo: deadbaed
-social_link: twitter
-social_username: philippeloctaux
+github_username: x4m3
+twitter_username: philippeloctaux
 
 # Build settings
 markdown: kramdown
