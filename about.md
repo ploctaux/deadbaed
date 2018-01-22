@@ -4,13 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi i'm phil (aka x4m3chki, but my real name is Philippe).
+hi im phil aka x4m3 and this is my blog.  
+i made it with jekyll, check the source code on [github](https://github.com/x4m3/deadbaed).
 
-This is my blog. I made with jekyll, the code is available on github
-if you're interested.
+expect nothing and everything here.
 
-I put random stuff that i want to keep for later, or dont want to make a
-youtube video about the subject.
-
-Check out [philippeloctaux.com](https://philippeloctaux.com) to see what
-i'm up to, or to contact me.
+check out [philippeloctaux.com](https://philippeloctaux.com) to contact me.
