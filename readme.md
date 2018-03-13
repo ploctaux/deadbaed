@@ -9,6 +9,11 @@ the site should be at [db.philippeloctaux.com](http://db.philippeloctaux.com)
 ## dev
 this is for phil, cause he forgets all the time how to install jekyll.
 
+install requirements for jekyll:
+ * ubuntu: `sudo apt install ruby ruby-dev make gcc`
+ * arch: `sudo pacman -S ruby`
+
+and run these commands:
 `gem install jekyll bundler` to install jekyll itself.  
 `bundle install` to install missing stuff, you will need your password.  
 `bundle exec jekyll serve 8002` to test the blog.  
