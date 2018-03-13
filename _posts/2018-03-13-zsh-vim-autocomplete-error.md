@@ -22,4 +22,4 @@ here's how to fix it: delete the zcompdump directory off your personal directory
 it took me at least 15 mins to find that .... hopefully i save some time for you .
 
 ### sources
-https://unix.stackexchange.com/questions/280622/zsh-fails-at-path-completition-when-command-is-vim#280626 and https://github.com/robbyrussell/oh-my-zsh/issues/518
+[stackoverflow](https://unix.stackexchange.com/questions/280622/zsh-fails-at-path-completition-when-command-is-vim#280626) and [github](https://github.com/robbyrussell/oh-my-zsh/issues/518)
