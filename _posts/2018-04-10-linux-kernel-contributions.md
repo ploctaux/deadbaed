@@ -16,7 +16,9 @@ yes, i am aware that Linus has a copy of the repo on github, but when [i try to 
 so, here are my kernel contributions, listed by date:
 
  - [feb 23, 2016](https://github.com/torvalds/linux/commit/81c18a9e378c87ed6559a4b0a0c2831c88947373)
- - [mar 7, 2016](https://github.com/torvalds/linux/commit/81c18a9e378c87ed6559a4b0a0c2831c88947373)
- - [dec 28, 2017](https://github.com/torvalds/linux/commit/81c18a9e378c87ed6559a4b0a0c2831c88947373)
+ - [mar 7, 2016](https://github.com/torvalds/linux/commit/ce6550818280c1e7caae727d2b9504140b6370f0)
+ - [dec 28, 2017](https://github.com/torvalds/linux/commit/9d4c0c9f6a747a9bdec03057be4193994839ec87)
 
 pretty cool huh? i'll try to update this list if new patches go in the kernel.
+
+**update (may 12, 2018)**: fixed the github urls
