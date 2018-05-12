@@ -12,9 +12,6 @@ theme: minima
 encoding: utf-8
 timezone: Europe/Paris
 permalink: /:year/:month/:title/
-exclude: [readme.md, Gemfile, Gemfile.lock, scripts/, _posts/template.md]
-plugins:
-  - jekyll-feed
 
 # Server settings
 port: 8002
@@ -30,3 +27,7 @@ port: 8002
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - readme.md
+  - scripts/
+  - _posts/template.md
