@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-hi im phil aka x4m3 and this is my blog.  
-i made it with jekyll, check the source code on [github](https://github.com/x4m3/deadbaed).
+**deadbaed** — *broke my bed, it's now dead*
 
-expect nothing and everything here.
+my personal blog, expect nothing and everything here.
 
-check out [philippeloctaux.com](https://philippeloctaux.com) to contact me.
+contact me on my website: <http://philippeloctaux.com>
