@@ -17,7 +17,3 @@ and run these commands:
 `gem install jekyll bundler` to install jekyll itself.  
 `bundle install` to install missing stuff.  
 `./scripts/server.sh` to test the blog.  
-`./scripts/publish.sh` to deploy the blog and to publish it on the server.
-`git remote add deploy vps:~/deadbaed-jekyll.git` if that's hasn't been done already :)
-
-is that clear phil?
