@@ -6,10 +6,16 @@ twitter_username: philippeloctaux
 
 # Build settings
 markdown: kramdown
-theme: minima
 encoding: utf-8
 timezone: Europe/Paris
 permalink: /:year/:month/:title/
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+
+# Theme settings
+remote_theme: heiswayi/the-plain
 
 # Server settings
 port: 8002

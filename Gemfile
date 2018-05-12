@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
 gem "jekyll"
-gem "minima" # theme for the blog
 gem 'github-pages', group: :jekyll_plugins # github pages plugins
 gem 'jekyll-remote-theme' # use a remote theme on github pages
 
