@@ -1,8 +1,13 @@
 title: deadbaed
-author: Philippe Loctaux
 description: broke my bed, it's now dead
+author_name: "Philippe Loctaux"
+author_email: loctauxphilippe@gmail.com
+author_gravatar: 36a921ac4aed8a977475d68da2e4066a
 github_username: x4m3
 twitter_username: philippeloctaux
+
+google_verify: false
+google_analytics: false
 
 # Build settings
 markdown: kramdown
@@ -13,6 +18,7 @@ permalink: /:year/:month/:title/
 # Plugins
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 # Theme settings
 remote_theme: heiswayi/the-plain
@@ -35,3 +41,21 @@ exclude:
   - readme.md
   - scripts/
   - _posts/template.md
+
+# Default values of the theme
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
