@@ -31,6 +31,6 @@ That tool is so well-made that there is even plugins to the program!
 That's awesome
 
 ## example
-im pretty sure you want an example, so [**here it is**](http://s.philippeloctaux.com/lolcommits/0adb5c36e3a.jpg)!  
+im pretty sure you want an example, so [**here it is**](/img/lolcommits/0adb5c36e3a.jpg)!  
 fyi, it was when i was working on the blog, here's the [**actual commit**](https://github.com/ploctaux/deadbaed/commit/0adb5c36e3acf448c52c3f5cdedef608fc881290) on github.
 
