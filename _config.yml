@@ -1,13 +1,7 @@
 title: deadbaed
-description: broke my bed, it's now dead
+description: "broke my bed, it's now dead"
 author_name: "Philippe Loctaux"
-author_email: loctauxphilippe@gmail.com
-author_gravatar: 36a921ac4aed8a977475d68da2e4066a
-github_username: x4m3
-twitter_username: philippeloctaux
-
-google_verify: false
-google_analytics: false
+logo_url: https://avatars3.githubusercontent.com/u/8809909?v=4
 
 # Build settings
 markdown: kramdown
