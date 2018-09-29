@@ -12,6 +12,7 @@ this is for phil, cause he forgets all the time how to install jekyll.
 install requirements for jekyll:
  * ubuntu: `sudo apt install ruby ruby-dev make gcc`
  * arch: `sudo pacman -S ruby`
+ * fedora: `sudo dnf install ruby ruby-devel redhat-rpm-config gcc gcc-c++`
 
 and run these commands:
 `gem install jekyll bundler` to install jekyll itself.  
