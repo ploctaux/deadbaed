@@ -1,10 +1,10 @@
 # deadbaed
 
-my blog
+my OLD blog
 
 made with jekyll
 
-the site should be at [db.philippeloctaux.com](http://db.philippeloctaux.com)
+~~the site should be at [db.philippeloctaux.com](http://db.philippeloctaux.com)~~ see [blog.x4m3.rocks](http://blog.x4m3.rocks)
 
 ## dev
 this is for phil, cause he forgets all the time how to install jekyll.
